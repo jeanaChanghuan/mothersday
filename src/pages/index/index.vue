@@ -195,12 +195,10 @@ export default {
   .imgAnimate{
     animation: imgmove 3s ease-in-out 1 forwards;
    -webkit-animation:imgmove 3s ease-in-out  1 forwards;
-   -o-animation:imgmove 3s ease-in-out  1 forwards;
   }
   .titleAnimate{
    animation: titlemove 3s linear 1 forwards;
    -webkit-animation:titlemove 3s  linear 1 forwards;
-   -o-animation:titlemove 3s linear 1 forwards;
   }
  
   @keyframes imgmove{
