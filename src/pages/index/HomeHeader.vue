@@ -65,17 +65,14 @@
  .imgAnimate{
 	animation: imgfade 3s ease 1 forwards;
    -webkit-animation:imgfade 3s ease 1 forwards;
-   -o-animation:imgfade 3s ease 1 forwards;
  }
  .title1Animate{
  	animation: move1 1s ease-in-out 2s 1 forwards;
     -webkit-animation: move1 1s ease-in-out 2s 1 forwards;
-    -o-animation: move2 1s ease-in-out 2s 1 forwards;
  }
   .title2Animate{
  	animation: move2 1s ease-in-out 2s 1 forwards;
     -webkit-animation:  move2 1s ease-in-out 2s 1 forwards;
-    -o-animation: move2 1s ease-in-out 2s 1 forwards;
  }
 @keyframes imgfade{
 	0%  {opacity: 0 ;}
